@@ -1,0 +1,51 @@
+
+
+*{
+}
+
+#about{
+	text-align: left;
+}
+
+
+*{
+  color: #6a73b6;
+   font-family: 'CourierPrimeSansRegular';
+   font-weight: bold;
+   font-style: normal;
+}
+body {
+  width: 90%;
+  margin: 0 auto;
+  background-image: url("https://th.bing.com/th/id/R.69574fcc2c642b7eb299c81a97c59176?rik=dBbI2wooamRNfA&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+}
+#content {
+  overflow: auto;
+}
+img{
+  max-width: 07%;
+  height: auto
+}
+ .list1 li{
+  display: inline;
+  padding: 0.5em;
+}
+#nav {
+   margin: 1%;
+  background-color: #efefef ;
+}
+#footer {
+   margin: 1%;
+  background-color: #efefef;
+  padding: 0;
+}
+#about {
+  font-color: #edf0f4;
+   margin: 1%;
+  background-color: #d9d2e9; 
+  background-image: url("https://i.pinimg.com/564x/7d/07/e2/7d07e2583b7f2e8dc6e52b018a45202e.jpg");
+	background-repeat: repeat;
+  width: 100%;
+	margin-bottom: 1em;
+}
