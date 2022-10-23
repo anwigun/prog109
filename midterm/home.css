@@ -21,6 +21,7 @@ body {
 #content {
   overflow: auto;
 }
+p{color: #6a73b6;}
 
 li {
   display: inline;
