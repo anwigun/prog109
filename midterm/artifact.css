@@ -10,8 +10,9 @@
 	text-align: left;
 	font-color: #5b5b5b
 }
-
-
+a { 
+font-color: #5b5b5b
+}
 *{
    font-family: 'CourierPrimeSansRegular';
    font-weight: bold;
