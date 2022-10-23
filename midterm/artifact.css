@@ -6,15 +6,10 @@
 	
 }
 
-#about{
+#about {
 	text-align: left;
-	font-color: #5b5b5b
+	font-color: #5b5b5b 
 }
-
-a:link { 
-font-color: #5b5b5b;
-}
-
 
 
 *{
@@ -49,6 +44,8 @@ img{
   padding: 0;
 }
 #about {
+	a:link {
+		font-color: #edf0f4}
   font-color: #edf0f4;
    margin: 1%;
   background-color: #d9d2e9; 
