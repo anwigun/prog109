@@ -1,18 +1,21 @@
-* {
-  font-family: Arial, Verdana, sans-serif;
-  color: #665544;
+#feature, .column1, .column2, .column3, #footer, #nav{
+  font-family: Arial, Verdana, sans-serif; 
+}
+
+*{color: #ffffff;
   text-align: center;
+  font-weight: bold;
 }
 
 #header {
-  font-family: "CourierPrimeSansRegular";
+   font-family: 'CourierPrimeSansRegular';
    font-weight: normal;
    font-style: normal;
 }
 body {
   width: 90%;
   margin: 0 auto;
-  background-image: url("https://th.bing.com/th/id/OIP.-fGNE9mER6brhTQLarnJqAHaFj?pid=ImgDet&rs=1");
+  background-image: url("https://th.bing.com/th/id/R.69574fcc2c642b7eb299c81a97c59176?rik=dBbI2wooamRNfA&pid=ImgRaw&r=0");
   background-repeat: no-repeat;
 }
 #content {
@@ -22,20 +25,23 @@ body {
    width: 31.3%;
   float: left;
   margin: 1%;
-  background-color: #ea9999
+  background-color: #ea9999;
+    height: 12em
 }
 .column2{
    width: 31.3%;
   float: left;
   margin: 1%;
-  background-color: #f9cb9c
+  background-color: #f9cb9c;
+    height: 12em
 }
 .column3 {
   width: 31.3%;
   float: left;
   margin: 1%;
   margin-right: 0%;
-  background-color: #f9cb9c
+  background-color: #b6d7a8;
+    height: 12em
 }
 li {
   display: inline;
@@ -44,6 +50,7 @@ li {
 #nav {
    margin: 1%;
   background-color: #663344;
+  font-color: 
 }
 #footer {
    margin: 1%;
