@@ -1,6 +1,7 @@
 
 
-*{
+#header, #footer, #nav {
+text-align: center	
 }
 
 #about{
