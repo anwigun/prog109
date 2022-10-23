@@ -60,6 +60,7 @@ li {
    margin: 1%;
   background-color: #d9d2e9; 
   background-image: url("https://th.bing.com/th/id/R.d79cce9d7ec96d59d7abad03a428f329?rik=F5AfaOm%2f6mcEYw&pid=ImgRaw&r=0");
+	background-repeat: no-repeat;
   height: 10em;
 	margin-bottom: 1em;
 }
