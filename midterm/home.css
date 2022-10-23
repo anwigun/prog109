@@ -1,4 +1,4 @@
-#footer, #nav{
+#footer, #nav, p {
   font-family: Arial, Verdana, sans-serif; 
 }
 
@@ -6,6 +6,8 @@
   text-align: center;
   font-weight: bold;
 }
+
+
 
 #header {
    font-family: 'CourierPrimeSansRegular';
@@ -21,7 +23,9 @@ body {
 #content {
   overflow: auto;
 }
-p{color: #6a73b6;}
+
+	
+}
 
 li {
   display: inline;
