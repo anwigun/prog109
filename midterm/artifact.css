@@ -1,16 +1,18 @@
 
 
 #header, #footer, #nav {
-text-align: center	
+	text-align: center;
+	  color: #6a73b6;
+	
 }
 
 #about{
 	text-align: left;
+	font-color: #5b5b5b
 }
 
 
 *{
-  color: #6a73b6;
    font-family: 'CourierPrimeSansRegular';
    font-weight: bold;
    font-style: normal;
