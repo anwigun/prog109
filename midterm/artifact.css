@@ -2,13 +2,13 @@
 
 #header, #footer, #nav {
 	text-align: center;
-	  color: #6a73b6;
-	
-}
 
+}
+*{
+	color: #5b5b5b 
+}
 #about {
 	text-align: left;
-	font-color: #5b5b5b 
 }
 
 
