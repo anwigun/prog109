@@ -2,7 +2,7 @@
   font-family: Arial, Verdana, sans-serif; 
 }
 
-*{color: #ffffff;
+*{color: #6a73b6;
   text-align: center;
   font-weight: bold;
 }
@@ -28,14 +28,14 @@ li {
 }
 #nav {
    margin: 1%;
-  background-color: #663344;
+  background-color: #efefef ;
 }
 #footer {
    margin: 1%;
   background-color: #efefef;
-  padding: 0.5em 0;
+  padding: 0;
 }
-#words {
+#about {
    margin: 1%;
   background-color: #d9d2e9; 
   background-image: url("https://th.bing.com/th/id/R.d79cce9d7ec96d59d7abad03a428f329?rik=F5AfaOm%2f6mcEYw&pid=ImgRaw&r=0");
@@ -43,4 +43,6 @@ li {
   height: 10em;
 	margin-bottom: 1em;
 }
+
+
 
