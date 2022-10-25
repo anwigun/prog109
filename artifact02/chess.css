@@ -47,7 +47,6 @@ Body {
 .bow12,
 .bow10
 {
-  border: clear;
 width: 11.3%;
  height: 34px;
   background-color:white;
@@ -106,7 +105,6 @@ width: 11.3%;
 .bow13,
 .bow11,
 .bow9{
-  border: clear;
  width: 11.3%;
   height: 34px;
  background-color: black;
@@ -163,7 +161,7 @@ width: 11.3%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0.5%;
-  margin-botton:0.5%;
+  margin-bottom:0.5%;
   width: 10%;
   height: auto;
 }
@@ -173,8 +171,7 @@ width: 11.3%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0.5%;
-  margin-botton:0.5%;
+  margin-bottom:0.5%;
   width: 10%;
   height: auto;
 }
-
