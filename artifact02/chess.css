@@ -1,1 +1,180 @@
+#header {
+  text-align: center;
+  font-family: "MedioRoman";
+  font-weight: normal;
+  font-style: normal;
+  color: #ead1dc;
+  position:fixed;
+  top:0px;
+ left:0px; 
+ padding:10px;
+ margin:0px;
+ width:100%;
+  background-color: #663344;
+}
+.blank1{
+  max-width: auto;
+}
+Body {
+  color: #663344;
+  background-color: #ead1dc;
+  background-image: url(https://th.bing.com/th/id/R.bbb990885347fcddb342526b359ee3ba?rik=FMB4yB6k%2fV3SIg&pid=ImgRaw&r=0)
+}
+#chessboard {
+ margin-top: 12%;
+ margin-left:auto;
+ margin-right:auto;
+ width: 30%;
+}
+.row1,
+.row3,
+.row5,
+.row7,
+.row10,
+.row12,
+.row14,
+.row16,
+.row18,
+.row20,
+.row22,
+.row24,
+.bow7,
+.bow5,
+.bow3,
+.bow1,
+.bow16,
+.zow14,
+.bow12,
+.bow10
+{
+  border: clear;
+width: 11.3%;
+ height: 34px;
+  background-color:white;
+ float:left;
+} 
+
+.row1,
+.row3,
+.row5,
+.row7,
+.row2,
+.row6,
+.row4,
+.row8{
+   background-image: url(https://anwigun.github.io/prog109/artifact02/black-pawn.png)
+  
+} 
+.row9,
+.row16 {
+  background-image: url(https://anwigun.github.io/prog109/artifact02/black-castle.png)
+}
+
+.row10,
+.row15 {
+  background-image: url(https://anwigun.github.io/prog109/artifact02/black-knight.png)
+}
+
+.row11,
+.row14{
+  background-image: url(https://anwigun.github.io/prog109/artifact02/black-bishop.png)
+}
+.row12{
+  background-image: url(https://anwigun.github.io/prog109/artifact02/black-queen.png)
+}
+.row13{
+  background-image: url(https://anwigun.github.io/prog109/artifact02/black-king.png)
+}
+
+.row2,
+.row6,
+.row4,
+.row8,
+.row9,
+.row11,
+.row13,
+.row15,
+.row17,
+.row19,
+.row21,
+.row23,
+.bow8,
+.bow6,
+.bow4,
+.bow2,
+.bow15,
+.bow13,
+.bow11,
+.bow9{
+  border: clear;
+ width: 11.3%;
+  height: 34px;
+ background-color: black;
+ float:left;
+}
+
+.bow8,
+.bow7,
+.bow6,
+.bow5,
+.bow4,
+.bow3,
+.bow2,
+.bow1{
+ background-image: url(https://anwigun.github.io/prog109/artifact02/gold-pawn.png)
+}
+
+.bow16,
+.bow9{
+  background-image: url(https://anwigun.github.io/prog109/artifact02/gold-castle.png)
+}
+
+.bow15,
+.bow10 {
+  background-image: url(https://anwigun.github.io/prog109/artifact02/gold-knight.png)
+}
+
+*{
+  background-repeat: no-repeat
+}
+
+
+.zow14,
+.bow11 {
+  background-image: url(https://anwigun.github.io/prog109/artifact02/gold-bishop.png)
+}
+
+.bow13{
+  background-image:url(https://anwigun.github.io/prog109/artifact02/gold-king.png)
+}
+
+.bow12{
+  background-image:url(https://anwigun.github.io/prog109/artifact02/gold-queen.png)
+}
+
+#footer {
+  background-color: #663344;
+  padding: 5%;
+ margin:2%;
+  margin-top:24%;
+}
+.validator1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5%;
+  margin-botton:0.5%;
+  width: 10%;
+  height: auto;
+}
+
+.validator2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5%;
+  margin-botton:0.5%;
+  width: 10%;
+  height: auto;
+}
 
