@@ -69,7 +69,7 @@ function downLeft(pHeight, pColorEven, pColorOdd, pSymbol) {
   for (i = pHeight;i >0;i--) {
     rLine += "<p>";
     //Fill in the left side of every row with spaces or blanks
-    for (x=1;x<=pHeight-1;x++){
+    for (x=1;x<=pHeight-i;x++){
       //rLine="_"
       rLine+="<span class='space'>" + pSymbol +"</span>";
   }
