@@ -2,7 +2,13 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  position: center
+  }
+.image{
+image-align: center
+}
+
+#name, #caption {
+text-align: center
 }
 #header {
   text-align: center;
