@@ -48,7 +48,7 @@ Body {
 width: 11.3%;
  height: 34px;
   background-color:white;
- float:center;
+ float:left;
 } 
 
 .row1,
@@ -106,7 +106,7 @@ width: 11.3%;
  width: 11.3%;
   height: 34px;
  background-color: black;
- float:center;
+ float:left;
 }
 
 .bow8,
