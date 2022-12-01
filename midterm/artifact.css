@@ -102,5 +102,22 @@ input[type=submit] {
   font-size:30%;
 }
 .image{
-  width:500%;  
+  max-width: 50%; 
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
