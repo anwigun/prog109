@@ -61,12 +61,11 @@ input[type=text] {
   box-sizing: border-box;
 }
  
-img{
+.giphy{
   max-width: 50%;
   height: auto
 }
   
-
 textarea {
   width: 50%;
   height: 70px;
