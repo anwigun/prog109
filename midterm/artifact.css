@@ -7,6 +7,12 @@
 }
 #about {
 	text-align: left;
+  padding: 6px
+}
+
+#hello{
+  text-align: center;
+  font-size: 100%
 }
 
 
@@ -14,6 +20,7 @@
    font-family: 'CourierPrimeSansRegular';
    font-weight: bold;
    font-style: normal;
+  
 }
 body {
   width: 90%;
@@ -23,9 +30,10 @@ body {
 }
 #content {
   overflow: auto;
+  
 }
 img{
-  max-width: 07%;
+  max-width: 7%;
   height: auto
 }
  .list1 li{
@@ -47,15 +55,13 @@ img{
   background-color: #d9d2e9; 
   background-image: url("https://9.cdn.ekm.net/ekmps/shops/chrisedgecombe/images/baby-blue-matte-authentic-cardstock-2575-p.jpg?v=1");
 	background-repeat: repeat;
-  background-size: 100%;
+  background-size: 120%;
   width: 98%;
-  height: 40em;
+  height: auto;
 	margin-bottom: 1em;
-  
 }
-
 #homeabout{
-text-align: center;
+  text-align: center;
 }
 input[type=text] {
   width: 40%;
@@ -70,6 +76,7 @@ input[type=text] {
   height: auto
 }
   
+
 textarea {
   width: 50%;
   height: 70px;
