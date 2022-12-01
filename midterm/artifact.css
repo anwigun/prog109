@@ -51,7 +51,11 @@ img{
   width: 98%;
   height: 40em;
 	margin-bottom: 1em;
-  text-align: center;
+  
+}
+
+#homeabout{
+text-align: center;
 }
 input[type=text] {
   width: 40%;
