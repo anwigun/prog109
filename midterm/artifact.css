@@ -5,14 +5,28 @@
 *{
 	color: #5b5b5b 
 }
-#about {
-	text-align: left;
+#about{
+   margin: 1%;
+text-align: left;
   padding: 6px
+  background-color: #d9d2e9; 
+  background-image: url("https://9.cdn.ekm.net/ekmps/shops/chrisedgecombe/images/baby-blue-matte-authentic-cardstock-2575-p.jpg?v=1");
+	background-repeat: repeat;
+  background-size: 100%;
+  width: 100%;
+  height: auto;
+	margin-bottom: 1em;
 }
 
 #hello{
   text-align: center;
   font-size: 100%
+}
+
+#lists{
+  padding:30px;
+  
+    
 }
 
 
@@ -34,8 +48,13 @@ body {
   overflow: auto;
   
 }
+
+.artifact1{
+  max-width:5%;
+}
+
 img{
-  max-width: 7%;
+  max-width: 3.5%;
   height: auto
 }
  .list1 li{
@@ -51,17 +70,7 @@ img{
   background-color: #efefef;
   padding: 0;
 }
-#about{
-   margin: 1%;
 
-  background-color: #d9d2e9; 
-  background-image: url("https://9.cdn.ekm.net/ekmps/shops/chrisedgecombe/images/baby-blue-matte-authentic-cardstock-2575-p.jpg?v=1");
-	background-repeat: repeat;
-  background-size: 120%;
-  width: 98%;
-  height: auto;
-	margin-bottom: 1em;
-}
 #homeabout{
   text-align: center;
 }
@@ -77,13 +86,26 @@ input[type=text], input[type=email] {
   max-width: 50%;
   height: auto
 }
+
+.rhombus, .artifact4, .artifact5 {
+  max-width:4%
+    
+}
   
 
 
+textarea {
+  width: 50%;
+  height: 70px;
+  overflow: auto;
+  background-color: #d9ead3;
+    padding: 3px 11px;
+  margin: 3px ;
+  box-sizing: border-box;
+}
 input[type=submit] {
   text-align: center;
- overflow: auto;
-  width: 30%;
+  width: 100%;
   background-color: #d9ead3;
     padding: 3px 11px;
   margin: 3px ;
