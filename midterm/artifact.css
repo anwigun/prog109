@@ -22,7 +22,7 @@ body {
   background-repeat: no-repeat;
 }
 #content {
-  overflow: scroll;
+  overflow: auto;
 }
 img{
   max-width: 07%;
