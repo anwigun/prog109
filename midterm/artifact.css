@@ -17,9 +17,11 @@
 
 
 *{
+   padding: 6px;
    font-family: 'CourierPrimeSansRegular';
    font-weight: bold;
    font-style: normal;
+
   
 }
 body {
