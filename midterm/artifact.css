@@ -30,7 +30,10 @@ text-align: left;
 }
 
 .BTS{
- max-width: 30%;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 30%;
  
 }
 
@@ -45,7 +48,7 @@ text-align: left;
 
 #caption
 {
-  text-align: left;
+  text-align: center;
   width: 30%;
     font-size: 11px;
   ;
@@ -110,17 +113,13 @@ input[type=text], input[type=email] {
     
 }
   
+.video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
 
 
-textarea {
-  width: 50%;
-  height: 70px;
-  overflow: auto;
-  background-color: #d9ead3;
-    padding: 3px 11px;
-  margin: 3px ;
-  box-sizing: border-box;
-}
 input[type=submit] {
   text-align: center;
   width: 100%;
